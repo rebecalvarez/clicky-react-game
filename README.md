@@ -14,7 +14,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Sample View for the Main Page
 
+
 ![Main Page](Screenshot.png)
+
 
 ## Available Scripts
 

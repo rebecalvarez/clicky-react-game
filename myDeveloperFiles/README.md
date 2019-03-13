@@ -1,22 +1,4 @@
-## Clicky Game React App
-This is a Memory Game build using React JS library. Components state is managed to respond to user events.
-<ol>
-<li>The application renders different images to the screen. Each image listens for click events.</li>
-The application keeps track of the user's score. The user's score is incremented on clicking an image for the first time.</li> 
-<li>The user's score resets to 0 if they click the same image more than once.</li>
-<li>Every time an image is clicked, the images rendered to the page shuffle themselves in a random order.</li>
-<li>Once the user's score is reset after an incorrect guess, the game restarts.</li>
-</ol>
-
-Game is deployed to Github Pages. Here is the link [Clicky-Game](https://rebecalvarez.github.io/clicky-react-game/).
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Sample View for the Main Page
-
-
-![Main Page](Screenshot.png)
-
 
 ## Available Scripts
 
